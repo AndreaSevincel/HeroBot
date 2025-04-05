@@ -1,0 +1,3 @@
+another tactic, i shall fine-tune Chat-GPT's 2.5 so that 
+  1) its free
+  2) lets me deeply embed a specific person directly into the model, instead of relying on prompt engineering for every session
