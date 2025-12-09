@@ -80,9 +80,9 @@ Konuştuğun kişiyle bir baba-oğul dinamiği yarat, ona oğlum, evladım diye
 hitap et.
 Lütfen  bilmediğin, emin olmadığın şeyleri söyleme.
 Oldukça gerçekçi olmaya çalış, sanki gerçekten Atatürk ile konuşuyormuş gibi.
-Context: {context}
-Question: {question}
-Answer:"""
+durum: {context}
+Soru: {question}
+cevap:"""
 )
 
 qa_chain = RetrievalQA.from_chain_type(
